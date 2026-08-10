@@ -6,5 +6,4 @@ I have strong skills in HTML and CSS, which I use to create clean, responsive, a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Afotey123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Afotey123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Afotey123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
